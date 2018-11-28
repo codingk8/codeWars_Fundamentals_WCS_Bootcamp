@@ -1,10 +1,9 @@
-# codeWars1_WCS_Curriculum
+# codeWars_Fundamentals_WCS_Curriculum
 First level of Wild Code School CodeWars package 💣
 
-
-[Emojis are fun](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :octocat:
-
 # Item 111 Even or Odd :balloon:
+
+[Play](https://www.codewars.com/kata/even-or-odd)
 
 ## Ma solution
 ```javascript
@@ -21,6 +20,8 @@ const even_or_odd = n => n%2 === 0 ? 'Even' : 'Odd';
 ````
 
 # Item 112 Opposite number :sparkles:
+
+[Play](https://www.codewars.com/kata/opposite-number)
 
 ## Ma solution
 ```javascript
