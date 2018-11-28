@@ -15,6 +15,5 @@ for(var i=0; i < n; i++)
 }
 repeatStr(7, "g");
 
-
 /* ES6 */
 const repeatStr = (n, s) => s.repeat(n)
