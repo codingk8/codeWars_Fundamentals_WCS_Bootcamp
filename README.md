@@ -2,21 +2,21 @@
 First level of Wild Code School CodeWars package 💣
 
 
-# Item 111 Even or Odd :balloon:
+## Item 111 Even or Odd :balloon:
 
 [Play](https://www.codewars.com/kata/even-or-odd)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/111_even_or_odd.js)
 
 
-# Item 112 Opposite number :sparkles:
+## Item 112 Opposite number :sparkles:
 
 [Play](https://www.codewars.com/kata/opposite-number)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/112_opposite_number.js)
 
 
-# Item 121 String repeat :rocket:
+## Item 121 String repeat :rocket:
 
 [Play](https://www.codewars.com/kata/string-repeat)
 
@@ -28,21 +28,21 @@ First level of Wild Code School CodeWars package 💣
 > *str.repeat(compte);*
 
 
-# Item 122 Jenny's secret message :heart:
+## Item 122 Jenny's secret message :heart:
 
 [Play](https://www.codewars.com/kata/jennys-secret-message)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/122_jennys_secret_message.js)
 
 
-# Item 131 Convert boolean values to strings 'Yes' or ‘No' :dancer:
+## Item 131 Convert boolean values to strings 'Yes' or ‘No' :dancer:
 
 [Play](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/131_convert_boolean_values_to_strings.js)
 
 
-# Item 132 Remove First and Last Character :jack_o_lantern:
+## Item 132 Remove First and Last Character :jack_o_lantern:
 
 [Play](https://www.codewars.com/kata/remove-first-and-last-character)
 
@@ -71,7 +71,7 @@ First level of Wild Code School CodeWars package 💣
 > *arr.pop();*
 
 
-# Item 141 Vowel Count :ghost:
+## Item 141 Vowel Count :ghost:
 
 [Play](https://www.codewars.com/kata/vowel-count)
 
@@ -92,7 +92,7 @@ First level of Wild Code School CodeWars package 💣
 > var nouveauTableau = arr.filter(callback, thisArg);*
 
 
-# Item 142 Get middle character :princess:
+## Item 142 Get middle character :princess:
 
 [Play](https://www.codewars.com/kata/get-the-middle-character)
 
@@ -101,7 +101,7 @@ First level of Wild Code School CodeWars package 💣
 **Rajouter le lien Mdn vers la fonction substr**
 
 
-# Item 151 Jaden Casing Strings :heartpulse:
+## Item 151 Jaden Casing Strings :heartpulse:
 
 [Play](https://www.codewars.com/kata/jaden-casing-strings)
 
@@ -114,12 +114,12 @@ First level of Wild Code School CodeWars package 💣
 **Add info on replace function**
 
 
-# Item 152 Mumbling :unicorn:
+## Item 152 Mumbling :unicorn:
 
 [Play](https://www.codewars.com/kata/mumbling)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_mumbling.js)
 
 
-# And just because :alien:
+## And just because :alien:
 <p align="center"><img src="https://media.giphy.com/media/TNk5NDanFOmv6/giphy.gif" alt="The truth is out there")</p>
