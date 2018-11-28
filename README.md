@@ -5,24 +5,15 @@ First level of Wild Code School CodeWars package 💣
 
 [Play](https://www.codewars.com/kata/even-or-odd)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/111_even_or_odd.js)
 
 
 # Item 112 Opposite number :sparkles:
 
 [Play](https://www.codewars.com/kata/opposite-number)
 
-## Ma solution
-```javascript
-function opposite(number) {
-  return -number;
-}
-````
+[Check](#)
 
-## ES6
-```javascript
-const opposite = n => -n;
-````
 
 # Item 121 String repeat :rocket:
 
