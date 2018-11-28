@@ -12,12 +12,14 @@ First level of Wild Code School CodeWars package 💣
 
 [Play](https://www.codewars.com/kata/opposite-number)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/112_opposite_number.js)
 
 
 # Item 121 String repeat :rocket:
 
-### La fonction js .repeat
+[Play](#)
+
+### La fonction js .repeat()
 [js repeat function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/repeat) :fr:
 > La méthode repeat() construit et renvoie une nouvelle chaine de caractères qui contient le nombre de copie demandée de la   > chaine de caractères sur laquelle la méthode a été appelée, concaténées les unes aux autres.
 > *str.repeat(compte);*
