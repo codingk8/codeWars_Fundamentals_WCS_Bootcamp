@@ -1,7 +1,6 @@
 /* CodeWars Kata: https://www.codewars.com/kata/jaden-casing-strings
 See link & ressources in the MD file */
 
-
 /* ES5 - Did not add .toLowerCase() since not required */
 String.prototype.toJadenCase = function () { 
   return this.split(" ").map(function(word){
@@ -15,7 +14,6 @@ String.prototype.toJadenCase = function () {
     return word.charAt(0).toUpperCase() + word.slice(1);
   }).join(" ");
 }
-
 
 /* Other ES5 */
 String.prototype.toJadenCase = function() {
