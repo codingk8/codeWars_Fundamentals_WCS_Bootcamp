@@ -116,29 +116,10 @@ First level of Wild Code School CodeWars package 💣
 
 # Item 152 Mumbling :unicorn:
 
-[Play](https://www.codewars.com/kata/jennys-secret-message)
+[Play](https://www.codewars.com/kata/mumbling)
 
-[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/122_jennys_secret_message.js)
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_mumbling.js)
 
-## Ma solution
-
-```javascript
-function accum(s) {
-	let l = s.toLowerCase().split('')
-  for(let i = 0; i < l.length; i++) {
-    l[i] = l[i].toUpperCase() + l[i].repeat(i)
-  }
-  return l.join('-')
-}
-```
-
-## Et aussi
-
-```javascript
-function accum(s) {
-  return s.split('').map((c, i) => (c.toUpperCase() + c.toLowerCase().repeat(i))).join('-');
-}
-```
 
 # And just because :alien:
 <p align="center"><img src="https://media.giphy.com/media/TNk5NDanFOmv6/giphy.gif" alt="The truth is out there")</p>
