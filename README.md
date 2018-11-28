@@ -1,23 +1,12 @@
-# codeWars_Fundamentals_WCS_Curriculum
+# codeWars_Fundamentals_WCS_Bootcamp
 First level of Wild Code School CodeWars package 💣
 
 # Item 111 Even or Odd :balloon:
 
 [Play](https://www.codewars.com/kata/even-or-odd)
 
-## Ma solution
-```javascript
-function even_or_odd(number) {
-  if (number %2 === 0){
-  return 'Even';}
-  return 'Odd';
-}
-```
+[Check](#)
 
-## ES6
-```javascript
-const even_or_odd = n => n%2 === 0 ? 'Even' : 'Odd';
-````
 
 # Item 112 Opposite number :sparkles:
 
