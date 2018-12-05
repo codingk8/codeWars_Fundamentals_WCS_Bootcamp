@@ -1,6 +1,7 @@
-# codeWars_Fundamentals_WCS_Bootcamp
-First level of Wild Code School CodeWars package 💣
+<h1 align="center">codeWars_Fundamentals_WCS_Bootcamp</h1>
+<h2 align="center">First level of Wild Code School CodeWars package 💣</h2>
 
+***
 
 ## Item 111 Even or Odd :balloon:
 
@@ -120,6 +121,10 @@ First level of Wild Code School CodeWars package 💣
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_mumbling.js)
 
+***
 
 ## And just because :alien:
 <p align="center"><img src="https://media.giphy.com/media/TNk5NDanFOmv6/giphy.gif" alt="The truth is out there")</p>
+  
+***
+
