@@ -51,7 +51,7 @@ Can you help her?**_
 
 ## Item 131 Convert boolean values to strings 'Yes' or ‘No' :dancer:
 
-_**Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.  **_
+_**Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.**_
 
 [Play](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 
