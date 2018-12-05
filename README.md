@@ -5,8 +5,7 @@
 
 ## Item 111 Even or Odd :balloon:
 
-> Create a function (or write a script in Shell) that takes an integer as an argument and returns "Even" for even numbers or
-> "Odd" for odd numbers.  
+_**Create a function (or write a script in Shell) that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.**_
 
 [Play](https://www.codewars.com/kata/even-or-odd)
 
@@ -15,7 +14,7 @@
 
 ## Item 112 Opposite number :sparkles:
 
-Very simple, given a number, find its opposite.  
+_**Very simple, given a number, find its opposite.**_
 
 [Play](https://www.codewars.com/kata/opposite-number)
 
@@ -24,7 +23,7 @@ Very simple, given a number, find its opposite.
 
 ## Item 121 String repeat :rocket:
 
-Write a function called repeatStr which repeats the given string string exactly n times.
+_**Write a function called repeatStr which repeats the given string string exactly n times.**_
 ```
 repeatStr(6, "I") // "IIIIII"
 repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
@@ -42,8 +41,8 @@ repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 
 ## Item 122 Jenny's secret message :heart:
 
-Jenny has written a function that returns a greeting for a user. However, she's in love with Johnny, and would like to greet him slightly different. She added a special case to her function, but she made a mistake.  
-Can you help her?
+_**Jenny has written a function that returns a greeting for a user. However, she's in love with Johnny, and would like to greet him slightly different. She added a special case to her function, but she made a mistake.  
+Can you help her?**_
 
 [Play](https://www.codewars.com/kata/jennys-secret-message)
 
@@ -52,7 +51,7 @@ Can you help her?
 
 ## Item 131 Convert boolean values to strings 'Yes' or ‘No' :dancer:
 
-Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.  
+_**Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.  **_
 
 [Play](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 
@@ -61,7 +60,7 @@ Complete the method that takes a boolean value and return a "Yes" string for tru
 
 ## Item 132 Remove First and Last Character :jack_o_lantern:
 
-It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.
+_**It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.**_
 
 [Play](https://www.codewars.com/kata/remove-first-and-last-character)
 
@@ -92,9 +91,9 @@ It's pretty straightforward. Your goal is to create a function that removes the 
 
 ## Item 141 Vowel Count :ghost:
 
-Return the number (count) of vowels in the given string.  
+_**Return the number (count) of vowels in the given string.  
 We will consider a, e, i, o, and u as vowels for this Kata.  
-The input string will only consist of lower case letters and/or spaces.
+The input string will only consist of lower case letters and/or spaces.**_
 
 [Play](https://www.codewars.com/kata/vowel-count)
 
@@ -117,8 +116,8 @@ The input string will only consist of lower case letters and/or spaces.
 
 ## Item 142 Get middle character :princess:
 
-You are going to be given a word. Your job is to return the middle character of the word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
-Examples:
+_**You are going to be given a word. Your job is to return the middle character of the word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
+Examples:**_
 ```
 Kata.getMiddle("test") should return "es"
 Kata.getMiddle("testing") should return "t"
@@ -133,15 +132,14 @@ Kata.getMiddle("testing") should return "t"
 
 ## Item 151 Jaden Casing Strings :heartpulse:
 
-Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word.  
+_**Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word.  
 Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.  
-
-Example:
+Example:**_
 ```
 Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 ```
-Note that the Java version expects a return value of null for an empty string or null.
+_**Note that the Java version expects a return value of null for an empty string or null.**_
 
 [Play](https://www.codewars.com/kata/jaden-casing-strings)
 
@@ -156,8 +154,8 @@ Note that the Java version expects a return value of null for an empty string or
 
 ## Item 152 Mumbling :unicorn:
 
-This time no story, no theory. The examples below show you how to write function accum:   
-Examples:
+_**This time no story, no theory. The examples below show you how to write function accum:   
+Examples:**_
 ```
 accum("abcd") -> "A-Bb-Ccc-Dddd"
 accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
