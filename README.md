@@ -5,6 +5,8 @@
 
 ## Item 111 Even or Odd :balloon:
 
+Create a function (or write a script in Shell) that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.  
+
 [Play](https://www.codewars.com/kata/even-or-odd)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/111_even_or_odd.js)
@@ -12,12 +14,20 @@
 
 ## Item 112 Opposite number :sparkles:
 
+Very simple, given a number, find its opposite.  
+
 [Play](https://www.codewars.com/kata/opposite-number)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/112_opposite_number.js)
 
 
 ## Item 121 String repeat :rocket:
+
+Write a function called repeatStr which repeats the given string string exactly n times.
+```
+repeatStr(6, "I") // "IIIIII"
+repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
+```
 
 [Play](https://www.codewars.com/kata/string-repeat)
 
@@ -31,6 +41,9 @@
 
 ## Item 122 Jenny's secret message :heart:
 
+Jenny has written a function that returns a greeting for a user. However, she's in love with Johnny, and would like to greet him slightly different. She added a special case to her function, but she made a mistake.  
+Can you help her?
+
 [Play](https://www.codewars.com/kata/jennys-secret-message)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/122_jennys_secret_message.js)
@@ -38,12 +51,16 @@
 
 ## Item 131 Convert boolean values to strings 'Yes' or ‘No' :dancer:
 
+Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.  
+
 [Play](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/131_convert_boolean_values_to_strings.js)
 
 
 ## Item 132 Remove First and Last Character :jack_o_lantern:
+
+It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.
 
 [Play](https://www.codewars.com/kata/remove-first-and-last-character)
 
@@ -74,6 +91,10 @@
 
 ## Item 141 Vowel Count :ghost:
 
+Return the number (count) of vowels in the given string.  
+We will consider a, e, i, o, and u as vowels for this Kata.  
+The input string will only consist of lower case letters and/or spaces.
+
 [Play](https://www.codewars.com/kata/vowel-count)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/141_vowel_count.js)
@@ -95,6 +116,13 @@
 
 ## Item 142 Get middle character :princess:
 
+You are going to be given a word. Your job is to return the middle character of the word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
+Examples:
+```
+Kata.getMiddle("test") should return "es"
+Kata.getMiddle("testing") should return "t"
+```
+
 [Play](https://www.codewars.com/kata/get-the-middle-character)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/142_get_middle_character.js)
@@ -103,6 +131,16 @@
 
 
 ## Item 151 Jaden Casing Strings :heartpulse:
+
+Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word.  
+Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.  
+
+Example:
+```
+Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
+Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
+```
+Note that the Java version expects a return value of null for an empty string or null.
 
 [Play](https://www.codewars.com/kata/jaden-casing-strings)
 
@@ -117,13 +155,21 @@
 
 ## Item 152 Mumbling :unicorn:
 
+This time no story, no theory. The examples below show you how to write function accum:   
+Examples:
+```
+accum("abcd") -> "A-Bb-Ccc-Dddd"
+accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+accum("cwAt") -> "C-Ww-Aaa-Tttt"
+```
+
 [Play](https://www.codewars.com/kata/mumbling)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_mumbling.js)
 
 ***
 
-## And just because :alien:
+## And just because we love :alien: don't we?!
 <p align="center"><img src="https://media.giphy.com/media/TNk5NDanFOmv6/giphy.gif" alt="The truth is out there"/></p>
   
 ***
