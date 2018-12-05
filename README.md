@@ -124,7 +124,7 @@
 ***
 
 ## And just because :alien:
-<p align="center"><img src="https://media.giphy.com/media/TNk5NDanFOmv6/giphy.gif" alt="The truth is out there")</p>
+<p align="center"><img src="https://media.giphy.com/media/TNk5NDanFOmv6/giphy.gif" alt="The truth is out there"/></p>
   
 ***
 
