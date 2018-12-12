@@ -7,7 +7,7 @@ function accum(s) {
   for(let i = 0; i < l.length; i++) {
     l[i] = l[i].toUpperCase() + l[i].repeat(i)
   }
-  return l.join('-')
+  return l.join('-');
 }
 
 /* Other ES5 */
