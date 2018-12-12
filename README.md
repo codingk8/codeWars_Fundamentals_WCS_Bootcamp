@@ -1,5 +1,6 @@
 <h1 align="center">codeWars_Fundamentals_WCS_Bootcamp</h1>
 <h2 align="center">First level of Wild Code School CodeWars 💣 package</h2>
+<h4 align="center">Last update: 20181212</h4>
 
 ***
 
