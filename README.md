@@ -169,7 +169,7 @@ accum("cwAt") -> "C-Ww-Aaa-Tttt"
 
 ***
 
-## And just because we love :alien: don't we?!
+<h2 align="center">And just because we love :alien: don't we?!</h2>
 <p align="center"><img src="https://media.giphy.com/media/TNk5NDanFOmv6/giphy.gif" alt="The truth is out there"/></p>
   
 ***
