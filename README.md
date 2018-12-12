@@ -4,6 +4,16 @@
 
 ***
 
+## Recap
+
+#### 121 Repeat string: repeat()
+#### 131 Remove First and Last Character: slice(), split(), shift(), pop()
+#### 141 Vowel Count: charAt(), match(), filter()
+#### 142 Get Middle Character: substr()
+#### 151 Jaden Casing Strings: map(), replace()
+
+***
+
 ## Item 111 Even or Odd :balloon:
 
 _**Create a function (or write a script in Shell) that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.**_
@@ -35,7 +45,7 @@ repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 [Check](#)
 
 ### La fonction js .repeat()
-[js repeat function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/repeat) :fr:
+[js repeat() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/repeat) :fr:
 > La méthode repeat() construit et renvoie une nouvelle chaine de caractères qui contient le nombre de copie demandée de la   > chaine de caractères sur laquelle la méthode a été appelée, concaténées les unes aux autres.
 > *str.repeat(compte);*
 
@@ -69,22 +79,22 @@ _**It's pretty straightforward. Your goal is to create a function that removes t
 
 :warning: substring function use is not recommended anymore
 
-[js slice function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/slice) :fr:
+[js slice() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/slice) :fr:
 > La méthode slice() extrait une section d'une chaine de caractères et la retourne comme une nouvelle chaine de caractères. La
 > chaîne de caractères courante n'est pas modifiée.  
 > *str.slice(indiceDebut, indiceFin);*
 
-[js split function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/split) :fr:
+[js split() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/split) :fr:
 > La méthode split() permet de diviser une chaîne de caractères à partir d'un séparateur pour fournir un tableau de sous
 > chaînes.   
 > *str.split([séparateur[, qtéMax]]);*
 
-[js shift function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/shift) :fr:
+[js shift() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/shift) :fr:
 > La méthode shift() permet de retirer le premier élément d'un tableau et de renvoyer cet élément. Cette méthode modifie la
 > longueur du tableau.   
 > *arr.shift();*
 
-[js pop function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/pop) :fr:
+[js pop() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/pop) :fr:
 > La méthode pop() supprime le dernier élément d'un tableau et retourne cet élément. Cette méthode modifie la longueur du
 > tableau.   
 > *arr.pop();*
@@ -100,15 +110,15 @@ The input string will only consist of lower case letters and/or spaces.**_
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/141_vowel_count.js)
 
-[js charAt function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/charAt) :fr:
+[js charAt() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/charAt) :fr:
 > La méthode charAt() renvoie une nouvelle chaîne contenant le caractère (ou, plus précisément, le point de code UTF-16)  à la > position indiquée en argument.   
 > *str.charAt(index);*
 
-[js match function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match) :fr:
+[js match() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match) :fr:
 > La méthode match() permet d'obtenir le tableau des correspondances entre la chaîne courante et une expression rationnelle.  
 > *str.match(regexp);*
 
-[js filter function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/filter) :fr:
+[js filter() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/filter) :fr:
 > La méthode filter() crée et retourne un nouveau tableau contenant tous les éléments du tableau d'origine qui remplissent une
 > condition déterminée par la fonction callback.  
 > *arr.filter(callback); // callback(elementCourant[, index[, tableauEntier]])
@@ -150,7 +160,7 @@ _**Note that the Java version expects a return value of null for an empty string
 
 **Ajouter info sur le map**
 
-**Add info on replace function**
+**Add info on replace() function**
 
 
 ## Item 152 Mumbling :unicorn:
