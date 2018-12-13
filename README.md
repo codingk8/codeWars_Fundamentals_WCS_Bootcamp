@@ -194,6 +194,8 @@ There will always be only one integer that appears an odd number of times.**_
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_find_the_odd.js)
 
+Complément fonctions ?
+
 
 ## Item 162 Duplicate encoder :sunny:
 
@@ -206,7 +208,16 @@ Examples:
 
 [Play](https://www.codewars.com/kata/duplicate-encoder)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/162_duplicate_encoder.js)
+
+[JS indexOf() on MDN :fr:](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/indexOf)
+> La méthode indexOf() renvoie l'indice de la première occurence de la valeur cherchée au sein de la chaîne courante (à partir 
+> de indexDébut). Elle renvoie -1 si la valeur cherchée n'est pas trouvée.
+
+[JS lastIndexOf() on MDN :fr:](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/lastIndexOf)
+> La méthode lastIndexOf() renvoie l'indice, dans la chaîne courante, de la dernière occurence de la valeur donnée en 
+> argument. Si cette sous-chaîne n'est pas trouvée, la méthode renvoie -1. La recherche s'effectue de la fin vers le début de 
+> la chaîne, à partir de indiceDébut.
 
 ***
 
