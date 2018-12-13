@@ -195,7 +195,7 @@ There will always be only one integer that appears an odd number of times.**_
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_find_the_odd.js)
 
 
-## Item 162 Duplicate encoder :sun:
+## Item 162 Duplicate encoder :sunny:
 
 _**(soon)**_
 
