@@ -18,3 +18,12 @@ function getMiddle(string) {
 
 /* ES6 */
 const getMiddle = s => (s.length % 2 ? s.substr(s.length / 2 , 1) : s.substr(s.length / 2 - 1, 2));
+
+
+// 20181213
+function a (s) {
+ if (s.length % 2 === 0) {
+  return s[(s.length / 2 ) - 1] + s[(s.length / 2 )];
+ } return s[((s.length -1) / 2)];
+}
+a("terminator");
