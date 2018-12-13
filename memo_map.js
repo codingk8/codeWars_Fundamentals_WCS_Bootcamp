@@ -39,3 +39,6 @@ c("wHeRe YoU wAteR iT");
 
 const change = string => (string.toLowerCase().split(" ").map( item => item[0].toUpperCase() + item.slice(1))).join(" ");
 change("wHeRe YoU wAteR iT");
+
+
+/* Thats' all folks! */
