@@ -125,7 +125,7 @@ The input string will only consist of lower case letters and/or spaces.**_
 > var nouveauTableau = arr.filter(callback, thisArg);*
 
 [js include() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/includes) :fr:  
-> La méthode includes() détermine si une chaîne de caractères est contenue dans une autre et renvoie true ou false selon le 
+> La méthode include() détermine si une chaîne de caractères est contenue dans une autre et renvoie true ou false selon le 
 > cas de figure.
 > _str.includes(chaîneRecherchée);_
 
