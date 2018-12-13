@@ -47,7 +47,7 @@ repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 ### La fonction js .repeat()
 [js repeat() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/repeat) :fr:
 > La méthode repeat() construit et renvoie une nouvelle chaine de caractères qui contient le nombre de copie demandée de la   > chaine de caractères sur laquelle la méthode a été appelée, concaténées les unes aux autres.
-> *str.repeat(compte);*
+> _str.repeat(compte);_
 
 
 ## Item 122 Jenny's secret message :heart:
@@ -82,22 +82,22 @@ _**It's pretty straightforward. Your goal is to create a function that removes t
 [js slice() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/slice) :fr:
 > La méthode slice() extrait une section d'une chaine de caractères et la retourne comme une nouvelle chaine de caractères. La
 > chaîne de caractères courante n'est pas modifiée.  
-> *str.slice(indiceDebut, indiceFin);*
+> _str.slice(indiceDebut, indiceFin);_
 
 [js split() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/split) :fr:
 > La méthode split() permet de diviser une chaîne de caractères à partir d'un séparateur pour fournir un tableau de sous
 > chaînes.   
-> *str.split([séparateur[, qtéMax]]);*
+> _str.split([séparateur[, qtéMax]]);_
 
 [js shift() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/shift) :fr:
 > La méthode shift() permet de retirer le premier élément d'un tableau et de renvoyer cet élément. Cette méthode modifie la
 > longueur du tableau.   
-> *arr.shift();*
+> _arr.shift();_
 
 [js pop() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/pop) :fr:
 > La méthode pop() supprime le dernier élément d'un tableau et retourne cet élément. Cette méthode modifie la longueur du
 > tableau.   
-> *arr.pop();*
+> _arr.pop();_
 
 
 ## Item 141 Vowel Count :ghost:
@@ -112,17 +112,17 @@ The input string will only consist of lower case letters and/or spaces.**_
 
 [js charAt() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/charAt) :fr:
 > La méthode charAt() renvoie une nouvelle chaîne contenant le caractère (ou, plus précisément, le point de code UTF-16)  à la > position indiquée en argument.   
-> *str.charAt(index);*
+> _str.charAt(index);_
 
 [js match() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match) :fr:
 > La méthode match() permet d'obtenir le tableau des correspondances entre la chaîne courante et une expression rationnelle.  
-> *str.match(regexp);*
+> _str.match(regexp);_
 
 [js filter() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/filter) :fr:
 > La méthode filter() crée et retourne un nouveau tableau contenant tous les éléments du tableau d'origine qui remplissent une
 > condition déterminée par la fonction callback.  
-> *arr.filter(callback); // callback(elementCourant[, index[, tableauEntier]])
-> var nouveauTableau = arr.filter(callback, thisArg);*
+> _arr.filter(callback); // callback(elementCourant[, index[, tableauEntier]])
+> var nouveauTableau = arr.filter(callback, thisArg);_
 
 [js include() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/includes) :fr:  
 > La méthode include() détermine si une chaîne de caractères est contenue dans une autre et renvoie true ou false selon le 
@@ -143,7 +143,9 @@ Kata.getMiddle("testing") should return "t"
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/142_get_middle_character.js)
 
-**Rajouter le lien Mdn vers la fonction substr**
+[JS substr() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/substring)
+> La méthode substring() retourne une sous-chaîne de la chaîne courante, entre un indice de début et un indice de fin.
+> _str.substring(indiceA[, indiceB])_
 
 
 ## Item 151 Jaden Casing Strings :heartpulse:
