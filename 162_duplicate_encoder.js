@@ -4,17 +4,17 @@ See link & ressources in the MD file */
 
 /* Ma solution */
 
+function duplicateEncode(word){
  let newWord = "";
-    let w = word.toLowerCase();
-
-    for (let i = 0; i < w.length; i++) {
-        if (w.indexOf(w[i]) === w.lastIndexOf(w[i])) {
-            newWord+="(";
-        } else {
-            newWord+=")";
-        }
-    }
-  return newWord;
+ let w = word.toLowerCase();
+ for (let i = 0; i < w.length; i++) {
+  if (w.indexOf(w[i]) === w.lastIndexOf(w[i])) {
+   newWord+="(";
+  } else {
+   newWord+=")";
+  }
+  }
+ return newWord;
 }
 
 /* Autres solutions */
