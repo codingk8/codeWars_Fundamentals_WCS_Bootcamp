@@ -14,7 +14,7 @@ function getCount(s) {
 
 /* ES5 */
 function getCount(str) {
-  return (str.match(/[aeiou]/ig)||[]).length;
+  return (str.match(/[aeiou]/ig)).length;
 }
 
 /* ES5 */
