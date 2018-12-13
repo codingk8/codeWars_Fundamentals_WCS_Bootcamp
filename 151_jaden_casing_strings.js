@@ -1,6 +1,34 @@
 /* CodeWars Kata: https://www.codewars.com/kata/jaden-casing-strings
 See link & ressources in the MD file */
 
+
+/* Complément d'utilisation du map, vois fichier "mémo" dédié */
+/* 20181213 Avec un map en ES6 */
+function c (s) {
+    return s.toLowerCase().split(" ").map(function (item) {
+        return item[0].toUpperCase() + item.slice(1);
+    }).join(" ");
+}
+c("wHeRe YoU wAteR iT");
+
+/* La même chose en ES6 */
+const change = string => (string.toLowerCase().split(" ").map( item => item[0].toUpperCase() + item.slice(1))).join(" ");
+change("wHeRe YoU wAteR iT");
+
+/* Complément d'utilisation du forEach, tout est ici */
+function c (s) { 
+    s1 = s.toLowerCase().split(" ");
+    let s2 = [];    
+    s1.forEach(function (item) {
+       s2.push(item[0].toUpperCase() + item.slice(1));
+        });
+    return s2.join(" ");
+}
+c("wHerE yOu wATer iT");
+
+
+/* Solutions du kata */
+
 /* ES5 - Did not add .toLowerCase() since not required */
 String.prototype.toJadenCase = function () { 
   return this.split(" ").map(function(word){
