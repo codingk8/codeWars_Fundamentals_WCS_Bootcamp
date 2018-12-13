@@ -5,7 +5,7 @@ fournie sur chaque élément du tableau appelant.
 Syntaxe : const nouveauTableau = arr.map(callback [, thisArg])
 
 Rq : map() construit un nouveau tableau. Si on utilise cette méthode sans utiliser le résultat, 
-mieux vaudra utiliser forEach ou for...of.  Pour mieux décider si map()est adéquat, regardez si vous 
+mieux vaudra utiliser forEach ou for...of.  Pour mieux décider si map() est adéquat, regardez si vous 
 utilisez la valeur de retour et/ou si vous renvoyez une valeur avec la fonction callback : si ce n'est 
 pas le cas, il ne faut pas utiliser map().*/
 
