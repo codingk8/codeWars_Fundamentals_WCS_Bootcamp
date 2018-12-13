@@ -184,6 +184,25 @@ accum("cwAt") -> "C-Ww-Aaa-Tttt"
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_mumbling.js)
 
+
+## Item 161 Find the odd int :dolphin:
+
+-**Given an array, find the int that appears an odd number of times.
+There will always be only one integer that appears an odd number of times.**_
+
+[Play](https://www.codewars.com/kata/find-the-odd-int/train/javascript)
+
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_find_the_odd.js)
+
+
+## Item 162 
+
+_**xxx**_
+
+[Play]()
+
+[Check]()
+
 ***
 
 <h2 align="center">And just because we love :alien: don't we?!</h2>
