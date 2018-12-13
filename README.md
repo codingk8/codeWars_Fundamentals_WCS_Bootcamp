@@ -8,7 +8,7 @@
 
 #### 121 Repeat string: repeat()
 #### 131 Remove First and Last Character: slice(), split(), shift(), pop()
-#### 141 Vowel Count: charAt(), match(), filter()
+#### 141 Vowel Count: charAt(), match(), filter(), include()
 #### 142 Get Middle Character: substr()
 #### 151 Jaden Casing Strings: map(), replace()
 
