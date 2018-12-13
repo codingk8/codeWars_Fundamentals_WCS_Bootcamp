@@ -187,7 +187,7 @@ accum("cwAt") -> "C-Ww-Aaa-Tttt"
 
 ## Item 161 Find the odd int :dolphin:
 
--**Given an array, find the int that appears an odd number of times.
+_**Given an array, find the int that appears an odd number of times.
 There will always be only one integer that appears an odd number of times.**_
 
 [Play](https://www.codewars.com/kata/find-the-odd-int/train/javascript)
@@ -195,13 +195,13 @@ There will always be only one integer that appears an odd number of times.**_
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_find_the_odd.js)
 
 
-## Item 162 
+## Item 162 Duplicate encoder :sun:
 
-_**xxx**_
+_**(soon)**_
 
-[Play]()
+[Play](https://www.codewars.com/kata/duplicate-encoder)
 
-[Check]()
+[Check](#)
 
 ***
 
