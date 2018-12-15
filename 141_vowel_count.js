@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/vowel-count
-See link & ressources in the MD file */
+/* CodeWars "Vowel count"
+See links & ressources in the MD file */
 
 /* ES5 */
 function getCount(s) {
