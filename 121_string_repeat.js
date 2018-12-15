@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/string-repeat
-See link & ressources in the MD file */
+/* CodeWars "String repeat"
+See links & ressources in the MD file */
 
 /* ES5 */
 function repeatStr (n, s) {
