@@ -77,7 +77,7 @@ _**It's pretty straightforward. Your goal is to create a function that removes t
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/132_remove_first_and_last_character.js)
 
-:warning: substring function use is not recommended anymore
+:warning: substring() function use is not recommended anymore
 
 [js slice() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/slice) :fr:
 > La méthode slice() extrait une section d'une chaine de caractères et la retourne comme une nouvelle chaine de caractères. La
