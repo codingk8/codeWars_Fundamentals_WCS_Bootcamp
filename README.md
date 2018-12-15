@@ -219,6 +219,26 @@ Examples:
 > argument. Si cette sous-chaîne n'est pas trouvée, la méthode renvoie -1. La recherche s'effectue de la fin vers le début de 
 > la chaîne, à partir de indiceDébut.
 
+
+## Item 171 Convert string to camel case :innocent:
+
+_**Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized.
+Examples:**_
+```js
+toCamelCase("the-stealth-warrior") // returns "theStealthWarrior"
+toCamelCase("The_Stealth_Warrior") // returns "TheStealthWarrior"
+````
+
+[Play](https://www.codewars.com/kata/convert-string-to-camel-case)
+
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/171_convert_string_to_camel_case.js)
+
+## Item 172 ? :bear:
+
+[Play](#)
+
+[Check](#)
+
 ***
 
 <h2 align="center">And just because we love :alien: don't we?!</h2>
