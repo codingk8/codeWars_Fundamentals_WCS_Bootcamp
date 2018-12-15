@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/jaden-casing-strings
-See link & ressources in the MD file */
+/* CodeWars "Jaden casing strings"
+See links & ressources in the MD file */
 
 
 /* Complément d'utilisation du map, vois fichier "mémo" dédié */
