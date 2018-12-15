@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/remove-first-and-last-character
-See link & ressources in the MD file */
+/* CodeWars "Remove first and last character"
+See links & ressources in the MD file */
 
 /* ES5 */
 function removeChar(str){
