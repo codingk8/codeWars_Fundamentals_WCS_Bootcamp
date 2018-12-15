@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/get-the-middle-character
-See link & ressources in the MD file */
+/* CodeWars "Get the middle character"
+See links & ressources in the MD file */
 
 /* ES5 */
  function getMiddle(s) {
