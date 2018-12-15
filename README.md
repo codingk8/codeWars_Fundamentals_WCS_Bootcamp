@@ -10,7 +10,7 @@
 #### 132 Remove First and Last Character: slice(), split(), shift(), pop()
 #### 141 Vowel Count: charAt(), match(), filter(), include()
 #### 151 Jaden Casing Strings: map(), replace()
-#### 152 Mumblig: map() repeat() join()
+#### 152 Mumblig: map(), repeat(), join()
 #### 161 Find the odd int: filter(), reduce(), find()
 #### 162 Duplicate encoder: indexOf(), lastIndexOf(), map(), replace()
 #### 171 Convert string to camel case: map(), replace(), chatAt(), split()
