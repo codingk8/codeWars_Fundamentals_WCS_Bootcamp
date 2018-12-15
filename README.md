@@ -255,7 +255,9 @@ _**Note: In case of an empty array return 0. You will not be tested with invalid
 
 [Play](https://www.codewars.com/kata/count-the-smiley-faces)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/172_count_the_smiley_faces.js)
+
+**Lot's of good stuff to dig in**
 
 ***
 
