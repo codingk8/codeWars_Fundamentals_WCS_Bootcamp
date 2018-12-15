@@ -1,4 +1,4 @@
-/* CodeWars Kata: https://www.codewars.com/kata/duplicate-encoder
+/* CodeWars "Duplicate encoder"
 See link & ressources in the MD file */
 
 
