@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/mumbling
-See link & ressources in the MD file */
+/* CodeWars "Mumbling"
+See links & ressources in the MD file */
 
 /* 20181213 Complément avec un map complet en ES5 */
 function f (s) {
