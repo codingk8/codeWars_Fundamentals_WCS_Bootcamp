@@ -1,10 +1,10 @@
-/* CodeWars Count the smiley faces */
+/* CodeWars "Count the smiley faces" 
+See links & ressources in the MD file */
 
-/* My 1st solution which failed 3 tests out of 105 and I don't know why (so pissed) */
-
+/* My 1st solution which worked the 2nd time */
 function countSmileys(arr) {
     let c = 0;
-    let r = /[:||;][-||~]*[)||D]/;
+    let r = /^[:;][-~]{0,1}[)D]$/;
     for (let i = 0; i < arr.length; i++) {
         if (r.test(arr[i])) {
             c++
@@ -14,9 +14,11 @@ function countSmileys(arr) {
 }
 countSmileys([':D',':~)',';~D',':)']);
 
+/* My favorite solution so far */
+countSmileys = (arr) => arr.filter(item => /^[:;][-~]{0,1}[)D]$/.test(item)).length;
+
 
 /* My solution that worked */
-
 function countSmileys(arr) {
 let faces = [":)",";)",":-)",";-)",";~)",":~)",":D",";D",":-D",":~D",";-D",";~D"];
 let count = 0;
@@ -45,9 +47,10 @@ const SMILING = /[:;]{1}[-~]?[)D]{1}/;
 const countSmileys = (faces) => faces.filter(face => SMILING.test(face)).length;
 
 
-countSmileys=arr=> arr.filter(v => /(:|;)(-|~)?(\)|D)/.test(v)).length; 
+countSmileys = arr => arr.filter(v => /(:|;)(-|~)?(\)|D)/.test(v)).length; 
 
 
 countSmileys = (arr) => arr.filter(e => /[:;][-~]?[)D]/.test(e)).length;
+
 
 /* That's all folks! */
