@@ -1,5 +1,5 @@
 /* CodeWars "Duplicate encoder"
-See link & ressources in the MD file */
+See links & ressources in the MD file */
 
 
 /* Ma solution */
