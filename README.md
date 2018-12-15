@@ -165,9 +165,8 @@ _**Note that the Java version expects a return value of null for an empty string
 
 [Some great help](https://medium.freecodecamp.org/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27) :gb:
 
-**Ajouter info sur le map**
-
-**Add info on replace() function**
+##### map(), ES5 & ES6
+##### replace()
 
 
 ## Item 152 Mumbling :unicorn:
@@ -184,6 +183,10 @@ accum("cwAt") -> "C-Ww-Aaa-Tttt"
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_mumbling.js)
 
+##### map()
+##### repeat()
+##### join()
+
 
 ## Item 161 Find the odd int :dolphin:
 
@@ -194,7 +197,9 @@ There will always be only one integer that appears an odd number of times.**_
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/152_find_the_odd.js)
 
-Complément fonctions filter() et reduce()
+##### filter() 
+##### reduce()
+##### find()
 
 
 ## Item 162 Duplicate encoder :sunny:
@@ -219,6 +224,9 @@ Examples:
 > argument. Si cette sous-chaîne n'est pas trouvée, la méthode renvoie -1. La recherche s'effectue de la fin vers le début de 
 > la chaîne, à partir de indiceDébut.
 
+##### map()
+##### replace()
+
 
 ## Item 171 Convert string to camel case :innocent:
 
@@ -232,6 +240,12 @@ toCamelCase("The_Stealth_Warrior") // returns "TheStealthWarrior"
 [Play](https://www.codewars.com/kata/convert-string-to-camel-case)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/171_convert_string_to_camel_case.js)
+
+##### map(), ES5 & ES6
+##### replace()
+##### charAt()
+##### split() with a regex
+
 
 ## Item 172 Count the smiley faces :smiley:
 
@@ -257,7 +271,9 @@ _**Note: In case of an empty array return 0. You will not be tested with invalid
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/172_count_the_smiley_faces.js)
 
-**Lot's of good stuff to dig in**
+##### Regex construction ([] instead of () + escape, use of the |, {0, 1} and not \*, add ^ and $)
+##### the filter()
+##### the reduce()
 
 ***
 
