@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/jennys-secret-message
-See link & ressources in the MD file */
+/* CodeWars "Jenny's secret message"
+See links & ressources in the MD file */
 
 /* ES5 */
 function greet(name){  
