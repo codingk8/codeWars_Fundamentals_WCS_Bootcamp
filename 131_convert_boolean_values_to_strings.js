@@ -1,5 +1,5 @@
-/* Kata: https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no
-See link & ressources in the MD file */
+/* CodeWars "Convert boolean values to strings yes or no"
+See links & ressources in the MD file */
 
 /* ES 5 */
 function boolToWord(bool){
