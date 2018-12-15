@@ -1,5 +1,5 @@
-/* CodeWars Kata: https://www.codewars.com/kata/find-the-odd-int/train/javascript
-See link & ressources in the MD file */
+/* CodeWars "Find the odd"
+See links & ressources in the MD file */
 
 /* Ma solution */
 function findOdd(A) {
