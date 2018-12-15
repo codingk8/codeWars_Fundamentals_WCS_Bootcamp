@@ -8,11 +8,7 @@ function toCamelCase(str){
    if (str.length === 0) {
         return ""
     } else if (str.length > 0) {
-    
         let arr = str.split(/[^A-Za-z0-9]/);
-        
-        console.log(arr);
-        
         return arr.map(function(item) {
             if ( arr.indexOf(item) > 0 ) {
                 return item.charAt(0).toUpperCase() + item.slice(1);
