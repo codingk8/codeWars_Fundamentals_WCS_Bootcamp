@@ -7,10 +7,14 @@
 ## Recap
 
 #### 121 Repeat string: repeat()
-#### 131 Remove First and Last Character: slice(), split(), shift(), pop()
+#### 132 Remove First and Last Character: slice(), split(), shift(), pop()
 #### 141 Vowel Count: charAt(), match(), filter(), include()
-#### 142 Get Middle Character: substr()
 #### 151 Jaden Casing Strings: map(), replace()
+#### 152 Mumblig: map() repeat() join()
+#### 161 Find the odd int: filter(), reduce(), find()
+#### 162 Duplicate encoder: indexOf(), lastIndexOf(), map(), replace()
+#### 171 Convert string to camel case: map(), replace(), chatAt(), split()
+#### 172 Count the smiley faces: filter(), reduce()
 
 ***
 
@@ -44,7 +48,6 @@ repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 
 [Check](#)
 
-### La fonction js .repeat()
 [js repeat() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/repeat) :fr:
 > La méthode repeat() construit et renvoie une nouvelle chaine de caractères qui contient le nombre de copie demandée de la   > chaine de caractères sur laquelle la méthode a été appelée, concaténées les unes aux autres.
 > _str.repeat(compte);_
@@ -142,10 +145,6 @@ Kata.getMiddle("testing") should return "t"
 [Play](https://www.codewars.com/kata/get-the-middle-character)
 
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/142_get_middle_character.js)
-
-[JS substr() function on MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/substring)
-> La méthode substring() retourne une sous-chaîne de la chaîne courante, entre un indice de début et un indice de fin.
-> _str.substring(indiceA[, indiceB])_
 
 
 ## Item 151 Jaden Casing Strings :heartpulse:
