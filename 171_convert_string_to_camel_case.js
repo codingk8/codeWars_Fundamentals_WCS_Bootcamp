@@ -1,7 +1,8 @@
-/* 171_convert_string_to_camel_case */
+/* CodeWars "Convert string to camel case " 
+See links & ressources in the MD file */
 
-/* OK, tricky one, you want the first letter to remain lower case if it is at the beginning + this thing about returning
-an empty string if needed */
+/* OK, tricky one, you want the first letter to remain lower case if it is at the beginning 
++ this thing about returning an empty string if needed */
 
 // My solution
 function toCamelCase(str){
