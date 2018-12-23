@@ -312,7 +312,7 @@ If a or b are empty the result is evident by itself.**_
 ##### map(), sort(), toString()
 
 
-## Item 182 Consecutive strings
+## Item 182 Consecutive strings :point_right: :point_right:
 
 _**You are given an array strarr of strings and an integer k. Your task is to return the first longest string consisting of k consecutive strings taken in the array.  
 #Example: longest_consec(["zone", "abigail", "theta", "form", "libe", "zas", "theta", "abigail"], 2) --> "abigailtheta"  
@@ -323,6 +323,34 @@ n being the length of the string array, if n = 0 or k > n or k <= 0 return "".**
 [Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/blob/master/182_consecutive_strings.js)
 
 ##### To be finished
+
+## Item 191
+
+[Play](https://www.codewars.com/kata/consecutive-strings)
+
+[Check](h
+
+
+## Item 192
+
+[Play](#)
+
+[Check](#)
+
+
+## Item 1 10 1
+
+[Play](#)
+
+[Check](#)
+
+
+## Item 1 10 2
+
+[Play](#)
+
+[Check](#)
+
 
 ***
 
