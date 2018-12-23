@@ -299,10 +299,10 @@ _**comp(a,b) returns false because in b 132 is not the square of any number of a
 a = [121, 144, 19, 161, 19, 144, 19, 11]  
 b = [121, 14641, 20736, 36100, 25921, 361, 20736, 361]
 ```
-_**comp(a,b) returns false because in b 36100 is not the square of any number of a.
-Remarks
-a or b might be [] (all languages except R, Shell). a or b might be nil or null or None or nothing (except in Haskell, Elixir, C++, Rust, R, Shell).
-If a or b are nil (or null or None), the problem doesn't make sense so return false.
+_**comp(a,b) returns false because in b 36100 is not the square of any number of a.  
+Remarks  
+a or b might be [] (all languages except R, Shell). a or b might be nil or null or None or nothing (except in Haskell, Elixir, C++, Rust, R, Shell).  
+If a or b are nil (or null or None), the problem doesn't make sense so return false.  
 If a or b are empty the result is evident by itself.**_
 
 [Play](https://www.codewars.com/kata/are-they-the-same)
