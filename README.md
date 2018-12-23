@@ -307,7 +307,9 @@ If a or b are empty the result is evident by itself.**_
 
 [Play](https://www.codewars.com/kata/are-they-the-same)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Fundamentals_WCS_Bootcamp/edit/master/181_are_they_the_same.js)
+
+##### map(), sort(), toString()
 
 
 ## Item 182 Consecutive strings
