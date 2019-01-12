@@ -8,7 +8,7 @@
 
 #### 121 Repeat string: repeat()
 #### 132 Remove First and Last Character: slice(), split(), shift(), pop()
-#### 141 Vowel Count: charAt(), match(), filter(), include()
+#### 141 Vowel Count: charAt(), match(), filter(), includes()
 #### 151 Jaden Casing Strings: map(), replace()
 #### 152 Mumblig: map(), repeat(), join()
 #### 161 Find the odd int: filter(), reduce(), find()
